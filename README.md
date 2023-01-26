@@ -1,5 +1,7 @@
-# lightning-cards
-A flashcard program for quick repetitions (for that day-before studying).
+# flashflash-cards
+A basic flashcard program for quick repetitions (for that day-before studying). 
+
+Old project I created to train for vocabulary tests. Meant to be very bare bones or "minimalistic", with big air quotes.
 
 ## How to use
 The first tab contains the actual flashcard game.  
